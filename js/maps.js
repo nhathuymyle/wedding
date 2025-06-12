@@ -19,6 +19,6 @@ function openMap2() {
 
 // Hàm mở Google Maps
 function openMap3() {
-    window.open('https://maps.app.goo.gl/Lhqvvh5uwnaETF34A', '_blank');
+    window.open('https://maps.app.goo.gl/TAtpUMkFG29Yr3Yz6', '_blank');
 }
 

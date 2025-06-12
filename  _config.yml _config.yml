@@ -1,0 +1,3 @@
+collections:
+  guests:
+    output: true
