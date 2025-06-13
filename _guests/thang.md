@@ -1,6 +1,6 @@
 ---
 layout: invite
-title: "Bạn Thắng + "
+title: "Bạn Thắng + ❤️"
 permalink: /thang.html
 ---
 
