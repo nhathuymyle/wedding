@@ -1,8 +1,8 @@
 ---
 layout: invite
-title: "Bạn Tiên + ❤️"
+title: "Bạn Tiên + ♥"
 location: "nữ"
-time: 
+time: "17 GIỜ 00"
 permalink: /tien.html
 ---
 
