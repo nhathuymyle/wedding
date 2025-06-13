@@ -1,8 +1,8 @@
 ---
 layout: invite
-title: "Bạn Diện + ♥"
+title: "Bạn Sum + ♥"
 location: "nam"
 time: "11 GIỜ 00"
-permalink: /bDien.html
+permalink: /phuong.html
 ---
 
