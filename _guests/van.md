@@ -1,8 +1,8 @@
 ---
 layout: invite
-title: "Vợ Chồng bạn Yến"
+title: "Vợ Chồng bạn Vân"
 location: "nữ"
 time: "17 GIỜ 00"
-permalink: /yen.html
+permalink: /van.html
 ---
 
