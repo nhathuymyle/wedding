@@ -1,7 +1,7 @@
 ---
 layout: invite
-title: "Bạn Hiếu + ♥"
+title: "Bạn Hiệp + ♥"
 location: "nữ"
 time: "17 GIỜ 00"
-permalink: /hieu.html
+permalink: /hiep.html
 ---
