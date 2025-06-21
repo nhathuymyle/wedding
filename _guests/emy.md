@@ -1,7 +1,8 @@
 ---
 layout: invite
-title: "Cậu Cơ"
+title: "Em Mỹ"
 location: "nam"
 time: "11 GIỜ 00"
-permalink: /cco.html
+permalink: /emy.html
 ---
+
